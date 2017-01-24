@@ -1,0 +1,1 @@
+yii.web ansible_connection=local
