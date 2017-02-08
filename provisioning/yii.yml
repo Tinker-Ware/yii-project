@@ -1,5 +1,5 @@
 ---
-- hosts: ti.project1
+- hosts: yii.web
   roles:
     - yii
     - { role: mysql, sudo: yes }
